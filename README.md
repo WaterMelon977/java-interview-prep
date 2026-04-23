@@ -17,5 +17,27 @@ Modern backend development using the Spring ecosystem.
 - **Security:** Authentication and Authorization using Spring Security and JWT.
 - **Testing:** Unit and Integration testing for robust services.
 
+## 🗄️ Track 3: Database & JPA/Hibernate
+Core data persistence strategies for Spring Boot applications.
+- **SQL Mastery:** Joins, subqueries, indexing, and ACID properties.
+- **JPA Fundamentals:** Entity lifecycle, mapping, and relationship management.
+- **Advanced JPA:** Solving N+1 problems, locking mechanisms, and DTO projections.
+- **Spring Data JPA:** Repository patterns, pagination, and sorting.
+
+## 🏗️ Track 4: Microservices Architecture
+Building and managing distributed systems at scale.
+- **Communication:** Synchronous (WebClient) vs Asynchronous (Kafka/RabbitMQ).
+- **Service Mesh:** API Gateway (Spring Cloud Gateway) and Service Discovery (Eureka).
+- **Patterns:** Saga pattern for distributed transactions and Database-per-service.
+- **Resilience:** Circuit breakers (Resilience4j) and fault tolerance.
+- **Observability:** Centralized logging and distributed tracing (Zipkin/Grafana).
+
+## 📐 Track 5: System Design
+High-level architectural patterns and trade-off analysis.
+- **Fundamentals:** Scalability (Horizontal/Vertical), Availability, and Reliability.
+- **Components:** Load balancing, Caching (Redis), and Message Queues.
+- **Design Problems:** URL Shorteners, E-commerce systems, and Notification services.
+- **Best Practices:** Requirement clarification, component definition, and data flow.
+
 ---
 *Targeted for: Junior to Senior Java Developer roles (MNCs & Startups)*
